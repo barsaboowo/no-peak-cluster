@@ -61,10 +61,10 @@ export default function Home() {
 							<a className="underline" href="https://petition.parliament.uk/petitions/739490" target="_blank" rel="noopener noreferrer">Sign the petition to pause Co2 storage projects</a>
 						</li>
 						<li>
-							<a className="underline" href="https://peakcluster.org.uk/" target="_blank" rel="noopener noreferrer">https://peakcluster.co.uk/</a>
+							<a className="underline" href="https://peakcluster.co.uk/" target="_blank" rel="noopener noreferrer">https://peakcluster.co.uk/</a>
 						</li>
 						<li>
-							Stop CCS: <a className="underline" href="https://no-to-ccs.org.uk/" target="_blank" rel="noopener noreferrer">https://stopccs.uk/</a>
+							Stop CCS: <a className="underline" href="https://stopccs.uk/" target="_blank" rel="noopener noreferrer">https://stopccs.uk/</a>
 						</li>
 						<li>
 							Find your local councillors: <a className="underline" href="https://www.gov.uk/find-your-local-councillors" target="_blank" rel="noopener noreferrer">https://www.gov.uk/find-your-local-councillors</a>
